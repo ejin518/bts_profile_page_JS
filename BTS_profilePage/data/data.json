@@ -1,0 +1,46 @@
+{
+    "bts": [
+        {
+            "name": "Jin",
+            "birth" : "1992.12.04",
+            "roll":"Vocal",
+            "image": "../img/member-jin.jpg"
+        },
+        {
+            "name": "Suga",
+            "birth" : "1993.03.09",
+            "roll":"Rapper",
+            "image": "../img/member-suga.jpg"
+        },
+        {
+            "name": "RM",
+            "birth" : "1994.09.12",
+            "roll":"Rapper, Leader",
+            "image": "../img/member-rm.jpg"
+        },
+        {
+            "name": "J-Hope",
+            "birth" : "1994.02.18",
+            "roll":"Rapper",
+            "image": "../img/member-jhope.jpg"
+        },
+        {
+            "name": "Ji Min",
+            "birth" : "1995.10.13",
+            "roll":"Vocal",
+            "image": "../img/member-jimin.jpg"
+        },
+        {
+            "name": "V",
+            "birth" : "1995.12.30",
+            "roll":"Vocal",
+            "image": "../img/member-v.jpg"
+        },
+        {
+            "name": "Jung Kook",
+            "birth" : "1997.09.01",
+            "roll":"Main Vocal",
+            "image": "../img/member-jk.jpg"
+        }
+    ]
+}
